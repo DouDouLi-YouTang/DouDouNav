@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdoudou_nav"]=self["webpackChunkdoudou_nav"]||[]).push([[585],{1585:function(u,n,e){e.r(n),e.d(n,{default:function(){return r}});var t={__name:"test",setup(u){return(u,n)=>null}};const a=t;var r=a}}]);
+//# sourceMappingURL=585.89a6c06a.js.map
