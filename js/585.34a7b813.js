@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdoudou_nav"]=self["webpackChunkdoudou_nav"]||[]).push([[585],{1585:function(n,u,e){e.r(u),e.d(u,{default:function(){return s}});var t=e(3396),o={__name:"test",setup(n){function u(){return new Promise(((n,u)=>{u("111")}))}return console.log(u()),(n,e)=>{const o=(0,t.up)("el-button");return(0,t.wg)(),(0,t.j4)(o,{onClick:u},{default:(0,t.w5)((()=>[(0,t.Uk)("测试")])),_:1})}}};const r=o;var s=r}}]);
+//# sourceMappingURL=585.34a7b813.js.map
